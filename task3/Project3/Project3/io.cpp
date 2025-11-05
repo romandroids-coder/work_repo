@@ -12,3 +12,7 @@ void writeAnswer(int x)
 {
     std::cout << "The answer is " << x << std::endl;
 }
+
+
+
+//change code
