@@ -20,3 +20,5 @@ int main()
     writeAnswer(x + y); // передаємо результат в функцію writeAnswer()
     return 0;
 }
+
+//change int x
